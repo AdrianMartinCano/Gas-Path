@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">GasPath</string>
+    <string name="default_web_client_id">236938152213-di84kkkq2eppue143d8bp109e0j5lk5b.apps.googleusercontent.com</string>
+
+        <!-- Recursos para la vista de inicio de sesión -->
+        <string name="login_title">Iniciar Sesión</string>
+        <string name="email_hint">Nombre / Correo</string>
+        <string name="password_hint">Contraseña</string>
+        <string name="login_button">Iniciar sesión</string>
+        <string name="register_prompt">¿No tienes cuenta? ¡Regístrate!</string>
+        <string name="google_login_button">Iniciar sesión con Google</string>
+        <string name="anonymous_login_button">Iniciar sesión Anónima</string>
+
+        <!-- Recursos para la vista de registro -->
+        <string name="signup">Registrarte</string>
+        <string name="login_prompt">¿Ya tienes cuenta? ¡Inicia Sesión!</string>
+
+        <!-- Recursos para la vista de ajustes -->
+        <string name="settings_title">Ajustes</string>
+        <string name="settings_account">Ver Ajustes de Cuenta</string>
+        <string name="settings_language">Cambiar Idioma</string>
+        <string name="settings_favorites">Ver Gasolineras Favoritas</string>
+        <string name="settings_logout">Cerrar Sesión</string>
+        <string name="distance_format">Distancia de búsqueda: %1$d km</string>
+        <string name="settings_gasolineras">Buscar Gasolineras</string>
+        <!-- Recursos para el AlertDialog -->
+        <string name="settings_logout_confirm_title">¡Atención!</string>
+        <string name="settings_logout_confirm_message">¿Estás seguro de que deseas cerrar sesión?</string>
+        <string name="confirm_yes">Sí</string>
+        <string name="confirm_no">No</string>
+
+        <!-- Recursos para la vista de ajustes de cuenta -->
+        <string name="account_settings_title">Ajustes de Cuenta</string>
+        <string name="new_username_label">Nuevo Nombre de Usuario</string>
+        <string name="new_password_label">Nueva Contraseña</string>
+        <string name="old_password_label">Antigua Contraseña</string>
+        <string name="calculate_distance_button">Calcular Distancia</string>
+        <string name="calculate_distance_prompt">La distancia es:</string>
+        <string name="delete_account">Eliminar Cuenta</string>
+        <string name="delete_confirmation_message">¿Seguro que quieres eliminar tu cuenta?\nEsto no tiene vuelta atrás.</string>
+        <string name="back">Atrás</string>
+        <string name="modify_username">Modificar Nombre de Usuario</string>
+        <string name="modify_password">Modificar Contraseña</string>
+        <string name="delete_account_dialog_confirm">Sí, estoy seguro</string>
+        <string name="delete_account_dialog_cancel">Cancelar</string>
+
+
+
+        <!-- Recursos para la barra de navegacion-->
+        <string name="nav_home">Inicio</string>
+        <string name="nav_fav">Favoritos</string>
+        <string name="nav_settings">Ajustes</string>
+
+        <!-- Recursos para la vista de Mapa -->
+        <string name="Gasolinerías">Gasolinerías</string>
+        <string name="CAutonoma">Autonoma</string>
+        <string name="Provincia">Provincia</string>
+        <string name="Municipio">Municipio</string>
+        <string name="setting_save_fav">Guardar como favorita</string>
+        <string name="setting_save_fav_question">¿Quieres guardar esta gasolinera como favorita?</string>
+        <string name="me_ubication">Mi ubicación</string>
+
+
+        <!-- Recursos para la vista gasolinera favoritas -->
+        <string name="googel_maps_button">Ver en Google Maps</string>
+        <string name="delete_from_favorites">Eliminar de favoritas</string>
+        <string name="delete_confirmation">¿Seguro que quieres eliminar esta gasolinera de favoritas?</string>
+        <string name="no_gas_stations_saved">No hay gasolineras guardadas</string>
+
+        <!--Recurso toast cambio distancia    -->
+    <string name="toast_distance_changed">¡Los cambios se realizarán cuando se reinicie la aplicación!</string>>
+
+
+    <!--Dialogo gasolineras favoritas    -->
+    <string name="favorites_dialog_title">Guardar como favorita</string>">
+    <string name="favorites_dialog_message">¿Quieres guardar esta gasolinera como favorita?</string>
+    <string name="favorites_dialog_yes">Sí</string>
+    <string name="favorites_dialog_no">No</string>
+
+
+    <!--Gasolina    -->
+    <string name="gasoline">Gasolina</string>
+
+    <!--Menu    -->
+    <string name="home">Inicio</string>
+    <string name="favorites">Favoritas</string>
+    <string name="settings">Ajustes</string>
+
+    </resources>

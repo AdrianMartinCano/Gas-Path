@@ -1,0 +1,93 @@
+<resources>
+    <!-- Recursos para la vista de inicio de sesión -->
+    <string name="app_name">GasPath</string>
+    <string name="default_web_client_id">236938152213-di84kkkq2eppue143d8bp109e0j5lk5b.apps.googleusercontent.com</string>
+
+    <string name="login_title">Log In</string>
+    <string name="email_hint">Username / Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="register_prompt">Don`t have an account? Sign Up!</string>
+    <string name="google_login_button">Log In with Google</string>
+    <string name="anonymous_login_button">Log In Anonymously</string>
+
+    <!-- Recursos para la vista de registro -->
+    <string name="signup">Sign Up</string>
+    <string name="login_prompt">Already have an account? Log In!</string>
+
+    <!-- Recursos para la vista de ajustes -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_account">View Account Settings</string>
+    <string name="settings_language">Change Language</string>
+    <string name="settings_favorites">View Favorite Gas Stations</string>
+    <string name="settings_logout">Log Out</string>
+    <string name="distance_format">Search distance: %1$d km</string>
+    <string name="settings_gasolineras">Search Gas Stations</string>
+    <!-- Recursos para el AlertDialog -->
+    <string name="settings_logout_confirm_title">Attention!</string>
+    <string name="settings_logout_confirm_message">Are you sure you want to log out?</string>
+    <string name="confirm_yes">Yes</string>
+    <string name="confirm_no">No</string>
+
+    <!-- Recursos para la vista de ajustes de cuenta -->
+    <string name="account_settings_title">Account Settings</string>
+    <string name="new_username_label">New Username</string>
+
+    <string name="old_password_label">Old Password</string>
+    <string name="new_password_label">New Password</string>
+
+
+    <string name="calculate_distance_button">Calculate Distance</string>
+    <string name="calculate_distance_prompt">The distance is:</string>
+
+    <!-- Recursos para el AlertDialog -->
+    <string name="delete_account_dialog_confirm">Yes, I`m sure</string>
+    <string name="delete_account_dialog_cancel">Cancel</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="delete_confirmation_message">Are you sure you want to delete your account?\nThis action cannot be undone.</string>
+    <string name="back">Back</string>
+    <string name="modify_username">Modify Username</string>
+    <string name="modify_password">Modify Password</string>
+
+
+    <!-- Recursos para la barra de navegación -->
+    <string name="nav_home">Home</string>
+    <string name="nav_fav">Favorites</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Recursos para la vista de Mapa -->
+
+    <string name="Gasolinerías">Settings</string>
+    <string name="CAutonoma">Autonomous Community</string>
+    <string name="Provincia">Province</string>
+    <string name="Municipio">Municipality</string>
+    <string name="setting_save_fav">Save as Favorite</string>
+    <string name="setting_save_fav_question">Do you want to save this gas station as favorite?</string>
+    <string name="me_ubication">My location</string>
+
+    <!-- Recursos para la vista de gasolinera favoritas -->
+    <string name="googel_maps_button">View on Google Maps</string>
+    <string name="delete_from_favorites">Remove from favorites</string>
+    <string name="delete_confirmation">Are you sure you want to remove this gas station from favorites?</string>
+    <string name="no_gas_stations_saved">There are no saved gas stations</string>
+
+    <!--Recurso toast cambio distancia    -->
+    <string name="toast_distance_changed">¡The changes will take effect when the application is restarted!</string>>
+
+
+    <!--Dialogo gasolineras favoritas    -->
+    <string name="favorites_dialog_title">Save as Favorite</string>
+    <string name="favorites_dialog_message">Do you want to save this gas station as a favorite?</string>
+    <string name="favorites_dialog_yes">Yes</string>
+    <string name="favorites_dialog_no">No</string>
+
+
+    <!--Gasolina    -->
+    <string name="gasoline">Gasoline</string>
+
+    <!--Menu    -->
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+
+</resources>

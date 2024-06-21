@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236938152213",
+    "project_id": "gasolineras-52a98",
+    "storage_bucket": "gasolineras-52a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236938152213:android:70f374bf0f6ee9ebf2c11c",
+        "android_client_info": {
+          "package_name": "com.example.gasolinerias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236938152213-l7msaqudju5maealjrjt98kbfh1rkvnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gasolinerias",
+            "certificate_hash": "a50d5e6a6a26df0a56ce8d9f7244bf8993901868"
+          }
+        },
+        {
+          "client_id": "236938152213-di84kkkq2eppue143d8bp109e0j5lk5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv441zSEZMwh5nt_DiQA377Ml5CbEhLeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236938152213-0j4004n46b7sdk0l6h9ng21ed25cjhgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
